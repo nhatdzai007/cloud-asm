@@ -13,16 +13,20 @@ var carsRouter = require('./routes/cars');
 var app = express();
 
 var bodyParser = require('body-parser');
-app.use(bodyParser.urlencoded({ extended : false}))
+app.use(bodyParser.urlencoded({ extended: false }))
 
 var hbs = require('hbs');
 hbs.registerHelper('dateFormat', require('handlebars-dateformat')); 
 
 var mongoose = require("mongoose");
+
+// Thêm dòng này để thiết lập strictQuery
+mongoose.set('strictQuery', false);
+
 var uri = 'mongodb+srv://ngminhcun2003:minhnhat2003@cluster0.mccdi.mongodb.net/1644';
 mongoose.connect(uri)
-.then(() => console.log ("Connect to DB succeed !"))
-.catch((err) => console.log (err));
+    .then(() => console.log("Connect to DB succeed!"))
+    .catch((err) => console.log(err));
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -41,24 +45,22 @@ app.use('/lego', legoRouter);
 app.use('/cars', carsRouter);
 
 // catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
+app.use(function (req, res, next) {
+    next(createError(404));
 });
 
 // error handler
-app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+app.use(function (err, req, res, next) {
+    // set locals, only providing error in development
+    res.locals.message = err.message;
+    res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error');
+    // render the error page
+    res.status(err.status || 500);
+    res.render('error');
 });
 
 //declare port
 app.listen(process.env.PORT || 3001);
 
 module.exports = app;
-
-// nên t mới bảo là lấy xừ code m xong đổi ảnh vs tên biến đi cho nhanh ấy
