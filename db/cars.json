@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Super Speed Racer",
+        "brand": "Hot Wheels",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2r5e0cvL9a5w_21GMENKhTz2cCF5TYGOMUw&usqp=CAU",
+        "color": "Red",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": false,
+        "quantity": 1,
+        "price": 100
+    },
+    {
+        "name": "Remote Control Police Car",
+        "brand": "Jada Toys",
+        "image": "https://sunrise-theme.myshopify.com/cdn/shop/products/5_900x.jpg?v=1334936803",
+        "color": "Blue",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": true,
+        "quantity": 1,
+        "price": 300
+    },
+    {
+        "name": "Cargo Truck",
+        "brand": "Melissa & Doug",
+        "image": "https://shop.bentleymotors.com/cdn/shop/products/BL2220_1.38_CONTINENTAL_GT3_PULL_BACK_TOY_GREEN_2048x2048.jpg?v=1606472112",
+        "color": "Green",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": false,
+        "quantity": 1,
+        "price": 200
+    },
+    {
+        "name": "Pickup Truck with Open Doors",
+        "brand": "Maisto",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdv2_2iyKuXZzN_BN3BHmBCo4S9r_-SfWttw&usqp=CAU",
+        "color": "Black",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": false,
+        "quantity": 1,
+        "price": 250
+    },
+    {
+        "name": "Fire Engine with Lights and Sounds",
+        "brand": "Tonka",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPNwaUulsTSU2UlxuOGb--t252mPG65pas5Q&usqp=CAU",
+        "color": "Red",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": true,
+        "quantity": 1,
+        "price": 350
+    },
+    {
+        "name": "Convertible Car with Music and Lights",
+        "brand": "Bburago",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfIkNc889PlmiSicmuqiGgTqcg9rsw96RvHg&usqp=CAU",
+        "color": "Pink",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "battery": true,
+        "quantity": 1,
+        "price": 300
+    }
+]

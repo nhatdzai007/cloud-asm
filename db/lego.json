@@ -1,0 +1,62 @@
+[
+    {
+        "name": "LEGO Star Wars Millennium Falcon",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/millennium-falcon-75192",
+        "quantity": 1,
+        "price": 799.99
+    },
+    {
+        "name": "LEGO Technic Bugatti Chiron",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/bugatti-chiron-42083",
+        "quantity": 1,
+        "price": 359.99
+    },
+    {
+        "name": "LEGO Creator 3in1 Pirate Ship",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/pirate-ship-31109",
+        "quantity": 1,
+        "price": 129.99
+    },
+    {
+        "name": "LEGO City Fire Station",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/fire-station-60215",
+        "quantity": 1,
+        "price": 199.99
+    },
+    {
+        "name": "LEGO Friends Heartlake City Hospital",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/heartlake-city-hospital-41395",
+        "quantity": 1,
+        "price": 149.99
+    },
+    {
+        "name": "LEGO Duplo My First Farm",
+        "brand": "LEGO",
+        "material": "Plastic",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi odio eaque rerum voluptates alias laudantium earum sit. Est iure obcaecati minima debitis dolorum deserunt cum, corrupti quis ea quasi quos.",
+        "year": 2023,
+        "image": "https://www.lego.com/r/en-us/product/my-first-farm-10957",
+        "quantity": 1,
+        "price": 49.99
+    }
+]

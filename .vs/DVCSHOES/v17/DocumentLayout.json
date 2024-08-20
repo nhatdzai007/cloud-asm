@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\shop.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\shop.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\index.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\index.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\error.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\error.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\contact.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\contact.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\about.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:views\\about.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\LegoModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\LegoModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\CarsModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\CarsModel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db\\cars.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\lego.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db\\lego.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\db.lua||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db\\db.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\bin\\www||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\www||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shop.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\shop.hbs",
+              "RelativeDocumentMoniker": "views\\shop.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\shop.hbs",
+              "RelativeToolTip": "views\\shop.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T02:01:01.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "layout.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\layout.hbs",
+              "RelativeDocumentMoniker": "views\\layout.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\layout.hbs",
+              "RelativeToolTip": "views\\layout.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T02:00:58.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\index.hbs",
+              "RelativeDocumentMoniker": "views\\index.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\index.hbs",
+              "RelativeToolTip": "views\\index.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T02:00:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "error.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\error.hbs",
+              "RelativeDocumentMoniker": "views\\error.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\error.hbs",
+              "RelativeToolTip": "views\\error.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T02:00:54.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\contact.hbs",
+              "RelativeDocumentMoniker": "views\\contact.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\contact.hbs",
+              "RelativeToolTip": "views\\contact.hbs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T01:37:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "about.hbs",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\about.hbs",
+              "RelativeDocumentMoniker": "views\\about.hbs",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\views\\about.hbs",
+              "RelativeToolTip": "views\\about.hbs",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T01:37:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LegoModel.js",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\LegoModel.js",
+              "RelativeDocumentMoniker": "models\\LegoModel.js",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\LegoModel.js",
+              "RelativeToolTip": "models\\LegoModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T01:37:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarsModel.js",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\CarsModel.js",
+              "RelativeDocumentMoniker": "models\\CarsModel.js",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\models\\CarsModel.js",
+              "RelativeToolTip": "models\\CarsModel.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-15T01:37:09.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cars.json",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\cars.json",
+              "RelativeDocumentMoniker": "db\\cars.json",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\cars.json",
+              "RelativeToolTip": "db\\cars.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T01:37:01.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "db.lua",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\db.lua",
+              "RelativeDocumentMoniker": "db\\db.lua",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\db.lua",
+              "RelativeToolTip": "db\\db.lua",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T01:36:51.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "www",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\bin\\www",
+              "RelativeDocumentMoniker": "bin\\www",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\bin\\www",
+              "RelativeToolTip": "bin\\www",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-15T01:36:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lego.json",
+              "DocumentMoniker": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\lego.json",
+              "RelativeDocumentMoniker": "db\\lego.json",
+              "ToolTip": "C:\\Users\\David Chu\\Documents\\1644\\ATNSHOP\\db\\lego.json",
+              "RelativeToolTip": "db\\lego.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T01:36:28.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
